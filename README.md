@@ -1,10 +1,10 @@
 # testbox
 This is an automated script to syncronize a *local* **GIT** branch of changes to a *remote* server in order to perform tests.
 
-##Schema
+## Schema
 ![schema](testbox.png)
 
-##Usage
+## Usage
 The posible options are the following:
 
 * --key: Configures the name to lookup on ~/.ssh
